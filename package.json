@@ -1,14 +1,23 @@
 {
   "name": "talkbits",
   "version": "1.0.0",
-  "description": "",
+  "description": "🎤 Real-time language practice with AI native speakers",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "language",
+    "learning",
+    "ai",
+    "conversation",
+    "practice",
+    "speech",
+    "tutor"
+  ],
+  "author": "Arephan",
+  "license": "MIT",
   "type": "commonjs",
   "dependencies": {
     "dotenv": "^17.2.4",
